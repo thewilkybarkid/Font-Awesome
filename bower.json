@@ -15,7 +15,7 @@
     "*/.*",
     "*.json",
     "src",
-    "*.yml",
+    "_config.yml",
     "Gemfile",
     "Gemfile.lock",
     "*.md"

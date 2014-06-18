@@ -28,7 +28,7 @@ We only accept issues that are icon requests, bug reports, or feature requests. 
 As of v3.2.0, Font Awesome's CSS, LESS, SCSS, and documentation are all powered by Jekyll templates and built before each commit and release.
 - `_config.yml` - much of the site is driven off variables from this file, including Font Awesome and Bootstrap versions
 - `src/` - All edits to documentation, LESS, SCSS, and CSS should be made to files and templates in this directory
-- `src/icons.yml` - all LESS, SCSS, and CSS icon definitions are driven off this single file
+- `icons.yml` - all LESS, SCSS, and CSS icon definitions are driven off this single file
 
 
 
